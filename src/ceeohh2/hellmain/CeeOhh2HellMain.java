@@ -19,6 +19,7 @@ public class CeeOhh2HellMain
     public static void main ( String[] args )
     {
         System.out.println ( "hallo" );    
+        System.out.println ( "mal gucken ob es klappt " );    
     consoleTest(); // test ob pull geht.bhduisb
     }
     
